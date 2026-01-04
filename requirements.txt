@@ -1,0 +1,5 @@
+numpy
+padas
+scikit-learn
+nltk
+re
